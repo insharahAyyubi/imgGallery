@@ -1,0 +1,28 @@
+.d-block {
+  margin: auto;
+  border: 2px solid #0a0908;
+}
+
+#prev {
+  filter: invert(100%);
+  margin-left: 100px;
+}
+
+#next {
+  filter: invert(100%);
+  margin-right: 100px;
+}
+
+.carousel-indicators {
+  filter: invert(100%);
+}
+
+body {
+  background-color: #1d2d44;
+}
+
+hr {
+  width: 85%;
+  border-top: 1px solid #daffef;
+  margin-bottom: 30px;
+}
